@@ -1,0 +1,17 @@
+#topic {
+    font-size: 15px;
+    color:#372920;
+}
+#font {
+    font-size: 15px;
+    color:#9e001ad2;
+}
+p {
+    text-align: center;
+    color:#915858;
+    background-image: linear-gradient(#efe5db,#E2BCB7);
+}
+#img {
+    width: 15%; height: 15%;
+    padding: 1rem;
+}

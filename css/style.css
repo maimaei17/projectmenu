@@ -1,0 +1,28 @@
+body {
+    background-image: url(https://i.pinimg.com/564x/bb/08/b6/bb08b6348d6aa0d0b9137e1923c08e4c.jpg);
+}
+a:visited, a:link {
+    color: white;
+}
+a:hover,a:active {
+    color: #f2808a;
+}
+div {
+    width: auto; height: auto;
+    color: white;
+    margin: 0.5rem;
+    padding: 0.75rem;
+}
+.menu {
+    background-color: #194569;
+}
+
+.content {
+    background-color: #f27983;
+}
+.footer {
+    background-color: #b47a63;
+}
+#logo {
+    width: 2%; height: 2%;
+}
